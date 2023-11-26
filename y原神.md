@@ -2,7 +2,7 @@
 
 ##                     自画像
 
-![1690628273874c3f4e5a1a5dc6b0dd00d4ec7dbf5888a82959988d2d4f3128472acb8bddff89e.0](D:/tools/git/%E6%96%87%E4%BB%B6/%E5%9B%BE%E7%89%87/1690628273874c3f4e5a1a5dc6b0dd00d4ec7dbf5888a82959988d2d4f3128472acb8bddff89e.0.png)
+![1690628273874c3f4e5a1a5dc6b0dd00d4ec7dbf5888a82959988d2d4f3128472acb8bddff89e.0]((https://c-ssl.duitang.com/uploads/blog/202301/16/20230116190848_e0aca.jpeg))
 
 
 
