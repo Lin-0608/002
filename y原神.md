@@ -2,7 +2,7 @@
 
 ##                     自画像
 
-[Uploading image.png…]()
+
 
 
 
