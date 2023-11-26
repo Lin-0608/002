@@ -2,7 +2,8 @@
 
 ##                     自画像
 
-![1690628273874c3f4e5a1a5dc6b0dd00d4ec7dbf5888a82959988d2d4f3128472acb8bddff89e.0](![image](https://github.com/Lin-0608/002/assets/146564120/638c369b-47e8-40b2-be52-0425bade01c6))
+![1690628273874c3f4e5a1a5dc6b0dd00d4ec7dbf5888a82959988d2d4f3128472acb8bddff89e.0]![Uploading image.png…]()
+
 
 
 
